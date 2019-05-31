@@ -1,0 +1,22 @@
+{
+  "name": "parse",
+  "version": "1.0.0",
+  "description": "parse server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karam",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karam96gh/parse.git"
+  },
+  "keywords": [
+    "parse"
+  ],
+  "bugs": {
+    "url": "https://github.com/karam96gh/parse/issues"
+  },
+  "homepage": "https://github.com/karam96gh/parse#readme"
+}
